@@ -3,4 +3,4 @@ streamlit == 1.16.0
 plotly == 5.9.0
 streamlit-authenticator
 PyPDF2
-Fake
+Faker
